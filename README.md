@@ -29,3 +29,6 @@ Here you can see👀 my portfolio:
 ## 2022
 - [How to become a Linux PowerUser](https://github.com/Jensssen/How-to-become-a-Linux-PowerUser)
   - This Repo contains a list of useful tools, plugins, shortcuts or workflows that make my life as a software developer and Linux advocate much easier.
+
+- [WafflePod - A podcast commenting app](https://github.com/Jensssen/wafflepod)
+  - This Repo contains my latest Android app project, that allows you to add comments to Podcasts in Spotify. 
