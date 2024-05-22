@@ -35,3 +35,7 @@ Here you can see👀 my portfolio:
 
 - [Carryly - A tool that makes ... easier](https://github.com/Jensssen/Carryly)
   - This Repo will contain all CAD files as well as the corresponding patent, once it has been approved.  
+
+## 2024
+- [DKB Transaction Analysis](https://github.com/Jensssen/DKB-transaction-analysis)
+  - This project contains a tool that queries and analyses your past [DKB](https://www.dkb.de/) transactions via the reverse engineered DKB API.
