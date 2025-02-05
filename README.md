@@ -39,3 +39,5 @@ Here you can see👀 my portfolio:
 ## 2024
 - [DKB Transaction Analysis](https://github.com/Jensssen/DKB-transaction-analysis)
   - This project contains a tool that queries and analyses your past [DKB](https://www.dkb.de/) transactions via the reverse engineered DKB API.
+- [An AI voice agent Picnic](https://github.com/Jensssen/picnic-ai-agent)
+  - This Repo contains the code for an AI voice agent that interacts with the online grocery store Picnic 
