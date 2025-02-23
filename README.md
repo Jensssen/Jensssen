@@ -24,20 +24,24 @@ Here you can see👀 my portfolio:
   - A Tensorflow 2.4 portet version of the official 3D-Mini-Net Paper. The architecture achieves state of the art mIoU results on popular benchmarks such as semanticKITTI for semantic segmentation of Point Cloud data.
   
 - [Design Patterns](https://github.com/Jensssen/design_patterns)
-  - This Repository contains a variety of different design patterns, documented using python examples.
+  - This repository contains a variety of different design patterns, documented using python examples.
 
 ## 2022
 - [How to become a Linux PowerUser](https://github.com/Jensssen/How-to-become-a-Linux-PowerUser)
-  - This Repo contains a list of useful tools, plugins, shortcuts or workflows that make my life as a software developer and Linux advocate much easier.
+  - This repo contains a list of useful tools, plugins, shortcuts or workflows that make my life as a software developer and Linux advocate much easier.
 
 - [WafflePod - A podcast commenting app](https://github.com/Jensssen/wafflepod)
-  - This Repo contains my latest Android app project, that allows you to add comments to Podcasts in Spotify. 
+  - This repo contains my latest Android app project, that allows you to add comments to Podcasts in Spotify. 
 
 - [Carryly - A tool that makes ... easier](https://github.com/Jensssen/Carryly)
-  - This Repo will contain all CAD files as well as the corresponding patent, once it has been approved.  
+  - This repo will contain all CAD files as well as the corresponding patent, once it has been approved.  
 
 ## 2024
 - [DKB Transaction Analysis](https://github.com/Jensssen/DKB-transaction-analysis)
   - This project contains a tool that queries and analyses your past [DKB](https://www.dkb.de/) transactions via the reverse engineered DKB API.
 - [An AI voice agent Picnic](https://github.com/Jensssen/picnic-ai-agent)
-  - This Repo contains the code for an AI voice agent that interacts with the online grocery store Picnic 
+  - This repo contains the code for an AI voice agent that interacts with the online grocery store Picnic
+ 
+## 2025
+- [LoRa based home alarm system](https://github.com/Jensssen/LoRa-intrusion-detection-system)
+  - This repo contains the code for my home alarm system. It utilizes technologies such as LoRa, Raspberry Pis, FastAPI, Postgresql, Grafana, Telegram and more.
