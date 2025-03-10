@@ -33,7 +33,7 @@ Here you can see👀 my portfolio:
 - [WafflePod - A podcast commenting app](https://github.com/Jensssen/wafflepod)
   - This repo contains my latest Android app project, that allows you to add comments to Podcasts in Spotify. 
 
-- [Carryly - A tool that makes ... easier](https://github.com/Jensssen/Carryly)
+- [Carryly - A tool that makes carrying boxes easier](https://github.com/Jensssen/Carryly)
   - This repo will contain all CAD files as well as the corresponding patent, once it has been approved.  
 
 ## 2024
